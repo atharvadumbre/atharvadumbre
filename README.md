@@ -5,6 +5,8 @@
 </h1>
 
 <div align="center">
+
+  🔎 **Looking for full-time opportunities in USA**
   
   🔨 I’m currently working on a **Personal Blogging Portal**
   
@@ -28,9 +30,24 @@
 </div>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atharvadumbre/atharvadumbre/output/github-contribution-grid-snake.svg" />
+  <h2> My Contributions </h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atharvadumbre/atharvadumbre/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+
+
+
+
+<div align=center>
+    <img width=400 src="https://github-readme-stats.vercel.app/api?username=atharvadumbre&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&border_radius=10"/>
+    <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadumbre&theme=great-gatsby&hide_border=false" />
+    <br/>
+    <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadumbre&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+</div>
+
