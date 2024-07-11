@@ -1,3 +1,8 @@
+
+![github-header-image](https://github.com/atharvadumbre/atharvadumbre/assets/59522832/3927ea1e-b8d8-46a8-8fd9-25c7f3878d5e)
+
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atharvadumbre.atharvadumbre" />
 
 <h1 align="center">
@@ -14,7 +19,6 @@
   
   Questions ❔ Ask me about **anything [here](https://github.com/atharvadumbre/atharvadumbre/issues)**
 
-
  </div>
  
 <div align="center"> 
@@ -30,6 +34,11 @@
 </div>
 
 <div align="center">
+    <h2> Skillset </h2>
+<img src="https://skillicons.dev/icons?i=html,css,js,anaconda,aws,azure,gcp,bootstrap,c,discord,docker,eclipse,express,fastapi,flask,git,github,githubactions,java,linux,mongodb,mysql,nodejs,notion,npm,opencv,p5js,php,pkl,postgres,postman,powershell,pycharm,py,pytorch,r,react,redhat,redis,regex,sublime,sklearn,tailwind,tensorflow,ts,ubuntu,visualstudio,vscode&perline=12" />
+</div>
+
+<div align="center">
   <h2> My Contributions </h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/atharvadumbre/atharvadumbre/output/github-contribution-grid-snake-dark.svg" />
   
@@ -38,10 +47,6 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
-
-
-
 
 <div align=center>
     <img width=400 src="https://github-readme-stats.vercel.app/api?username=atharvadumbre&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&rank_icon=github&border_radius=10"/>
