@@ -16,7 +16,7 @@
   
   🔨 I’m currently working on a **Personal Blogging Portal**
   
-  💻 I’m currently learning **RAG Systems, Dockers, MLOPS**
+  💻 I’m currently learning **Scalable Data Pipelines**
   
   Questions ❔ Ask me about **anything [here](https://github.com/atharvadumbre/atharvadumbre/issues)**
 
