@@ -1,5 +1,5 @@
 
-![github-header-image](https://github.com/atharvadumbre/atharvadumbre/assets/59522832/3927ea1e-b8d8-46a8-8fd9-25c7f3878d5e)
+![github-header-image (1)](https://github.com/user-attachments/assets/dbbd0471-45d2-43f9-8557-879565eec936)
 
 
 
@@ -7,18 +7,16 @@
 <br/>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&pause=1000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+🙋‍♂️;+My+name+is+Atharva+Dumbre!;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=FFF0DC&center=true&width=500&height=70&lines=Hello+There!%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;My+name+is+Atharva+Dumbre!" alt="Typing SVG" />
 </div>
 
 <div align="center">
 
   🔎 **Looking for full-time opportunities in USA**
+
+
   
-  🔨 I’m currently working on a **Personal Blogging Portal**
-  
-  💻 I’m currently learning **Scalable Data Pipelines**
-  
-  Questions ❔ Ask me about **anything [here](https://github.com/atharvadumbre/atharvadumbre/issues)**
+  Questions❔ Ask me about **anything [here](https://github.com/atharvadumbre/atharvadumbre/issues)**
 
  </div>
  
