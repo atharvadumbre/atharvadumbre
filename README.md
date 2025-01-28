@@ -1,6 +1,5 @@
 
-![github-header-image (1)](https://github.com/user-attachments/assets/dbbd0471-45d2-43f9-8557-879565eec936)
-
+![github-header-image (2)](https://github.com/user-attachments/assets/8b5558a0-b114-49fa-ba8e-caaaefde8dc9)
 
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=atharvadumbre.atharvadumbre" />
